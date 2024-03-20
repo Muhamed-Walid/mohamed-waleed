@@ -7,7 +7,7 @@
 }
 
 body{
-  background: #0a001b;
+  background: #09001a;
 }
 .title-cont{
   margin-top: 120px;
@@ -333,13 +333,14 @@ html{
 }
 .about-img{
   background: #0041f5ab;
-  width: 50vh;
-  height: 50vh;
+  width: 40vh;
+  height: 40vh;
   border-radius: 10px;
 }
 .about-img img{
-  width: 50vh;
-  height: 50vh;
+  transition: 0.50s;
+  width: 40vh;
+  height: 40vh;
   object-fit: cover;
   border-radius: 10px;
   border: 2px #7c7c7c solid;
